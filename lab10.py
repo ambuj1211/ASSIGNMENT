@@ -6,9 +6,7 @@ def dotproduct(lst1,lst2):
         return sum
     else:
         return "error"
-    
-
-
+        
 lst1 = []
 lst2 = []
  
