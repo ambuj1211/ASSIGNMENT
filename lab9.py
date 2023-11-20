@@ -4,10 +4,13 @@ def GCD(a, b):
     else:
         return GCD(b, a % b)
 
-def help(a,b):
-    if(a>b):
-        return GCD(a,b)
-    else:
-        return GCD(b,a)
+print("GCD = ",GCD(int(input("Give an integer: ")),int(input("Give another integer: "))))
 
-print("GCD = ",help(int(input("Give an integer: ")),int(input("Give another integer: "))))
+''' 
+OUTPUT
+
+Give an integer: 8
+Give another integer: 12
+GCD =  4
+
+'''
