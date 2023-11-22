@@ -7,9 +7,6 @@ def dotproduct(lst1,lst2):
     else:
         return "error"
         
-lst1 = []
-lst2 = []
- 
 lst1 = [int(item) for item in input("Enter the list items : ").split()]
 lst2 = [int(item) for item in input("Enter the list items : ").split()]
 
