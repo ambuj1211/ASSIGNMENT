@@ -31,8 +31,4 @@ Enter number of planets: 5
 List of distances of planet: 4 5 3 1 2
 position of Aman's favourite planet in unsorted list: 2
 Element is present at index:  5
-<<<<<<< HEAD
 '''
-=======
-'''
->>>>>>> 0f03e71a557e70be0ea4b5bd79ab1ce6104a046c
