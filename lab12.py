@@ -25,7 +25,7 @@ print("Element is present at index: ", result+1)
 
 
 '''
-output
+output of Question No. 12
 
 Enter number of planets: 5
 List of distances of planet: 4 5 3 1 2
