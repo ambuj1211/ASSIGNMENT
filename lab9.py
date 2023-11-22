@@ -4,7 +4,8 @@ def GCD(a, b):
     else:
         return GCD(b, a % b)
 
-print("GCD = ",GCD(int(input("Give an integer: ")),int(input("Give another integer: "))))
+print("GCD = ",GCD(int(input("Give an integer: ")),int(input("\
+    Give another integer: "))))
 
 ''' 
 OUTPUT
